@@ -1,0 +1,9 @@
+redjubjub_batch_equivalence
+sapling_batch_equivalence
+orchard_era_routing
+orchard_batch_composition
+orchard_single_deep
+tower_partition_equivalence
+sprout_batch_equivalence
+turnstile_order_independence
+orchard_batch_equivalence
