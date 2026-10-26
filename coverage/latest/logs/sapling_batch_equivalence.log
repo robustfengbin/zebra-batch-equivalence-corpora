@@ -2,29 +2,29 @@ WARNING: Failed to find function "__sanitizer_acquire_crash_state".
 WARNING: Failed to find function "__sanitizer_print_stack_trace".
 WARNING: Failed to find function "__sanitizer_set_death_callback".
 INFO: Running with entropic power schedule (0xFF, 100).
-INFO: Seed: 1228696351
-MERGE-OUTER: 796 files, 0 in the initial corpus, 0 processed earlier
+INFO: Seed: 1697075011
+MERGE-OUTER: 779 files, 0 in the initial corpus, 0 processed earlier
 MERGE-OUTER: attempt 1
 WARNING: Failed to find function "__sanitizer_acquire_crash_state".
 WARNING: Failed to find function "__sanitizer_print_stack_trace".
 WARNING: Failed to find function "__sanitizer_set_death_callback".
 INFO: Running with entropic power schedule (0xFF, 100).
-INFO: Seed: 1247340485
+INFO: Seed: 1717087528
 INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 1048576 bytes
-MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge605.txt'
-MERGE-INNER: 796 total files; 0 processed earlier; will process 796 files now
-#1	pulse  exec/s: 0 rss: 160Mb
-#2	pulse  exec/s: 0 rss: 160Mb
-#4	pulse  exec/s: 0 rss: 160Mb
-#8	pulse  exec/s: 0 rss: 160Mb
-#16	pulse  exec/s: 0 rss: 160Mb
-#32	pulse  exec/s: 0 rss: 160Mb
-#64	pulse  exec/s: 0 rss: 160Mb
-#128	pulse  exec/s: 0 rss: 160Mb
-#256	pulse  exec/s: 51 rss: 160Mb
-#512	pulse  exec/s: 1 rss: 160Mb
-#796	DONE   exec/s: 0 rss: 160Mb
+MERGE-INNER: using the control file '/tmp/libFuzzerTemp.Merge611.txt'
+MERGE-INNER: 779 total files; 0 processed earlier; will process 779 files now
+#1	pulse  exec/s: 0 rss: 163Mb
+#2	pulse  exec/s: 0 rss: 163Mb
+#4	pulse  exec/s: 0 rss: 163Mb
+#8	pulse  exec/s: 0 rss: 163Mb
+#16	pulse  exec/s: 0 rss: 163Mb
+#32	pulse  exec/s: 0 rss: 163Mb
+#64	pulse  exec/s: 0 rss: 163Mb
+#128	pulse  exec/s: 0 rss: 163Mb
+#256	pulse  exec/s: 51 rss: 163Mb
+#512	pulse  exec/s: 1 rss: 163Mb
+#779	DONE   exec/s: 0 rss: 163Mb
 MERGE-OUTER: successful in 1 attempt(s)
-MERGE-OUTER: the control file has 104560 bytes
-MERGE-OUTER: consumed 0Mb (161Mb rss) to parse the control file
+MERGE-OUTER: the control file has 102199 bytes
+MERGE-OUTER: consumed 0Mb (164Mb rss) to parse the control file
 MERGE-OUTER: 0 new files with 0 new features added; 0 new coverage edges
